@@ -7,8 +7,12 @@ public class Intro {
 	public void test1() 
 	{
 		System.out.println("Hello");
+
 		System.out.println("Hello2");
 		System.out.println("Hello3");
+
+		System.out.println("Hi");
+
 	}
 	
 	
